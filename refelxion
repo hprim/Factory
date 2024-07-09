@@ -1,0 +1,13 @@
+Flexibilidad y extensibilidad: El patrón de fábrica ofrece una mayor flexibilidad y facilidad de extensión, ya que permite agregar nuevos tipos de objetos sin afectar el código existente.
+
+
+Complejidad de la lógica de creación: Cuando la lógica de creación de objetos se vuelve más compleja, el uso de una fábrica puede ser más apropiado para encapsular y centralizar esa complejidad.
+
+
+Acoplamiento y dependencias: El uso de fábrica puede ayudar a reducir el acoplamiento entre los clientes y las implementaciones concretas de los objetos, lo que facilita el mantenimiento y la prueba del código.
+
+
+Testabilidad y modularidad: El patrón de fábrica mejora la testabilidad del código al permitir la inyección de dependencias y la sustitución de implementaciones durante las pruebas.
+
+
+Rendimiento y eficiencia: Dependiendo de la complejidad de la lógica de creación, el uso de fábrica puede tener un impacto en el rendimiento, por lo que es importante evaluar el equilibrio entre flexibilidad y eficiencia.
